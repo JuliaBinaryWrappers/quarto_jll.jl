@@ -1,25 +1,25 @@
 [[quarto]]
 arch = "x86_64"
-git-tree-sha1 = "959e4eb6b6bea313a38d452068d9de889c289565"
+git-tree-sha1 = "e68bee4bb0c5f3be695cbee7da78e1f468b87d6a"
 os = "macos"
 
     [[quarto.download]]
-    sha256 = "e18c11f272c1a518d2727c421462e1f4461d224661ba413dbab1ca7022326373"
-    url = "https://github.com/JuliaBinaryWrappers/quarto_jll.jl/releases/download/quarto-v1.5.54+0/quarto.v1.5.54.x86_64-apple-darwin.tar.gz"
+    sha256 = "f2399b1e1f29bdebfdfc831f45771ea9ccd71682740279e50159a06a2d44643d"
+    url = "https://github.com/JuliaBinaryWrappers/quarto_jll.jl/releases/download/quarto-v1.5.57+0/quarto.v1.5.57.x86_64-apple-darwin.tar.gz"
 [[quarto]]
 arch = "x86_64"
-git-tree-sha1 = "ad65a2a3de2e96e4b1295abece7183033931682c"
+git-tree-sha1 = "9fd191e22fef31c8d4909fb3c3944debf529ffdd"
 libc = "glibc"
 os = "linux"
 
     [[quarto.download]]
-    sha256 = "adc18b83caaa67905dd02c2448c52df52a3d69f42f71242835430bcc8ce76aac"
-    url = "https://github.com/JuliaBinaryWrappers/quarto_jll.jl/releases/download/quarto-v1.5.54+0/quarto.v1.5.54.x86_64-linux-gnu.tar.gz"
+    sha256 = "61c9aee64e4acd6e989ecda3c414dbac101f85629f3a5a74541c099b47c33ae9"
+    url = "https://github.com/JuliaBinaryWrappers/quarto_jll.jl/releases/download/quarto-v1.5.57+0/quarto.v1.5.57.x86_64-linux-gnu.tar.gz"
 [[quarto]]
 arch = "x86_64"
-git-tree-sha1 = "f450f24c0ca8ea5f74193e32c02cbc881adb30eb"
+git-tree-sha1 = "42caf91eedff926b08564c748f64573b6eb73d8b"
 os = "windows"
 
     [[quarto.download]]
-    sha256 = "dcc7e346d41a0f8c0a7416b01ad73a6113355e282941ddd56f5201742a723bf4"
-    url = "https://github.com/JuliaBinaryWrappers/quarto_jll.jl/releases/download/quarto-v1.5.54+0/quarto.v1.5.54.x86_64-w64-mingw32.tar.gz"
+    sha256 = "cdeed8ba61df09f6ff236a655f832de23ea65b2afd6af180233246706e44334b"
+    url = "https://github.com/JuliaBinaryWrappers/quarto_jll.jl/releases/download/quarto-v1.5.57+0/quarto.v1.5.57.x86_64-w64-mingw32.tar.gz"
