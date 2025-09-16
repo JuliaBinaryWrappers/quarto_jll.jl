@@ -1,6 +1,6 @@
 name = "quarto_jll"
 uuid = "b7163347-bfae-5fd9-aba4-19f139889d78"
-version = "1.7.32+0"
+version = "1.8.24+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
